@@ -1,0 +1,5 @@
+---
+- name: Display a message from repo1
+  debug:
+    msg: "Hello from repo1!"
+
